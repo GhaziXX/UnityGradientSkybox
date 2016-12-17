@@ -3,7 +3,7 @@ A beautiful gradient skybox for unity inspired by 'https://github.com/keijiro/Un
 
 This is also inspired by 'Stack' a game in the google play store
 
-
+![alt tag](http://i.imgur.com/rFFH0dp.gif)
 
 # System Requirements
 Unity 5.0 or later versions.
